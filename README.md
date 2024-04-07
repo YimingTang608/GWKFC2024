@@ -1,4 +1,4 @@
-# GWKFC2024# RSGG
+# RSGG
 The representative selection and granularity generation algorithm enlightened by the DPC (density peaks clustering) algorithm.
 # GWKFC
 A granular weighted kernel fuzzy clustering algorithm using Gaussian kernel distance and weights based on PJG (principle of justifiable granularity).
